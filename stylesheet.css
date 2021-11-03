@@ -12,6 +12,10 @@ li{
     float: left;
     padding: 20px 40px;
 }
+.header-list li{
+    float: left;
+    padding: 33px 20px;
+}
 .main{
     background-color:lightsteelblue;
     height: 600px;
