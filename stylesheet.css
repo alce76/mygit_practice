@@ -1,3 +1,6 @@
+li{
+    list-style: none;
+}
 .header{
     background-color:cadetblue;
     height: 90px;
