@@ -8,7 +8,7 @@ li{
 }
 .header-logo{
     font-size: 36px;
-    color:white;
+    color:greenyellow;
     float: left;
     padding: 20px 40px;
 }
@@ -23,4 +23,15 @@ li{
 .footer{
     background-color:#2f5167;
     height: 270px;
+}
+.footer-logo{
+    color: greenyellow;
+    font-size: 32px;
+    float: left;
+}
+.footer-list{
+    float: right;
+}
+.footer-list li{
+    padding-bottom: 20px;
 }
