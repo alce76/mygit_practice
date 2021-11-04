@@ -26,6 +26,9 @@ li{
 .copy-container h2{
     font-size: 60px;
 }
+.copy-container span{
+    color: red;
+}
 .footer{
     background-color:#2f5167;
     height: 120px;
