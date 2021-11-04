@@ -62,6 +62,10 @@ input, textarea{
     font-size: 18px;
     border: solid #dee7ec 1px;
 }
+.contact-submit{
+    background-color: #dee7ec;
+    color: #889eab;
+}
 .footer{
     background-color:#2f5167;
     height: 120px;
