@@ -18,7 +18,13 @@ li{
 }
 .main{
     background-color:lightsteelblue;
-    height: 600px;
+    padding: 100px 80px;
+}
+.copy-container h1{
+    font-size: 140px;
+}
+.copy-container h2{
+    font-size: 60px;
 }
 .footer{
     background-color:#2f5167;
