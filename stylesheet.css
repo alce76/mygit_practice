@@ -29,6 +29,9 @@ li{
 .copy-container span{
     color: red;
 }
+.section-title{
+    border-bottom: solid #dee7ec 2px;
+}
 .footer{
     background-color:#2f5167;
     height: 120px;
