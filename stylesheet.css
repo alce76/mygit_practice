@@ -54,6 +54,14 @@ img{
 .contact-form{
     padding: 100px;
 }
+input, textarea{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: solid #dee7ec 1px;
+}
 .footer{
     background-color:#2f5167;
     height: 120px;
